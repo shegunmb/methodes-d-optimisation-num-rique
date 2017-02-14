@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1484174457 source:c:\users\shegd\efrei\m2\s9\methodes d'optimisation numérique\c++ file\mon_import\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
